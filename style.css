@@ -59,21 +59,21 @@ body{
 .blog-title{
   color: var(--black);
   font-weight: 900;
-  margin-top: 12px;
+  margin-top: 10px;
 }
 .blog-title:hover{
   color: var(--yellow);
 }
 .blog-description{
   color: var(--grey);
-  margin-top: 16px;
+  margin-top: 15px;
   font-size: 16px;
   line-height: 1.5;
 }
 .author-container{
   display: flex;
   align-items: center;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 .author-profile{
   width: 30px;
@@ -91,3 +91,6 @@ body{
   text-align: center; 
   color: var(--black);
   }
+.attribution a{
+  color:var(--yellow);
+}
