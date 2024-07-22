@@ -1,5 +1,5 @@
 @import url("https://fonts.google.com/specimen/Figtree");
-
+l
 *{
   margin: 0;
   padding: 0; 
@@ -43,7 +43,7 @@ body{
     width: fit-content;
     background-color: var(--yellow);     
     color: var(--black);
-    padding: 6px 10px 6px 10px;
+    padding: 5px 10px 5px 10px;
     margin-top: 20px;
     border-radius: 3px;
     font-size: 13px;
