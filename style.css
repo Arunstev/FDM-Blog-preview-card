@@ -40,10 +40,10 @@ body{
   border-radius: 10px;
 }
 .tag{
-  width: min-content;
+  width: fit-content;
   background-color: var(--yellow);
   color: var(--black);
-  padding: 6px 10px 6px 10px;
+  padding: 5px 10px 5px 10px;
   margin-top: 20px;
   border-radius: 3px;
   font-size: 13px;
