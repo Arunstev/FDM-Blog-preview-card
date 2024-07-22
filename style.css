@@ -66,7 +66,7 @@ body{
 }
 .blog-description{
   color: var(--grey);
-  margin-top: 15px;
+  margin-top: 10px;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -87,10 +87,11 @@ body{
 }
 .attribution { 
   font-size: 10px;
-  margin-top: 12px;
+  margin-top: 15px;
   text-align: center; 
   color: var(--black);
   }
 .attribution a{
   color:var(--yellow);
+  font-weight: bold;
 }
