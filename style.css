@@ -91,7 +91,3 @@ body{
   text-align: center; 
   color: var(--black);
   }
-.attribution a{
-  color:var(--yellow);
-  font-weight: bold;
-}
