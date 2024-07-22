@@ -39,7 +39,7 @@ body{
   width: 100%;
   border-radius: 10px;
 }
-.tag{
+.btn{
   width: fit-content;
   background-color: var(--yellow);
   color: var(--black);
@@ -47,7 +47,7 @@ body{
   margin-top: 20px;
   border-radius: 3px;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .content-container{
   margin-top: 12px;
